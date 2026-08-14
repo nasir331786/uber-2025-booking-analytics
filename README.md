@@ -2,6 +2,7 @@
 
 > Explore booking trends, key performance indicators, revenue, and operational insights.
 
+
 ## 📊 Project Overview
 
 This project presents an interactive Power BI dashboard designed to analyze Uber booking data for 2025. The dashboard transforms raw booking data into meaningful KPIs, trends, and business insights to support data-driven decision-making.
